@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: auto;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+tr:first-of-type {
+    background: orange;
+    color: white;
+}
+td:first-of-type {
+    background: orange;
+    color: white;
+}
